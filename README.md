@@ -8,7 +8,6 @@
 - CSS
 - JS/React
 - NodeJS
-
 ```
 
 ## 📫 How to reach me: 
