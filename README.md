@@ -4,10 +4,15 @@
 ## 🌱 I’m currently learning ...
 
 ```
-- HTML
-- CSS
-- JS/React
-- NodeJS
+-   HTML
+-   CSS
+-   JavaScript
+-   TypeScript
+-   ReactJS
+-   Redux
+-   NodeJS
+-   Express
+-   Git/Bash/Shell
 ```
 
 ## 📫 How to reach me: 
