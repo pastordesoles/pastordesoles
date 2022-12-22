@@ -7,9 +7,9 @@
 
 - 📫 How to reach me **xavi.sans.b@gmail.com**
 
-## Tech Stack ⚡
+<h1 align="center">Tech Stack ⚡</h1>
 
-### Front 💻
+<h3 align="center">Front 💻</h1>
 
 <div align="center">
 
@@ -27,7 +27,7 @@
 
 </div>
 
-### Backend 🪄
+<h3 align="center">Back 🪄</h1>
 
 <div align="center">
 
@@ -42,7 +42,7 @@
 
 </div>
 
-### Testing 🧪
+<h3 align="center">Testing 🧪</h1>
 
 <div align="center">
 
@@ -52,7 +52,7 @@
 
 </div>
 
-## Tools/Platforms🛠️
+<h1 align="center">Tools/Platforms🛠️</h1>
 
 <div align="center">
 
@@ -76,6 +76,9 @@
 
 </div>
 
+<br/>
+
+<h1 align="center">Stats📈</h1>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pastordesoles&show_icons=true&locale=en" alt="pastordesoles" /></p>
 
 
