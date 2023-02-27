@@ -77,10 +77,9 @@
 
 </div>
 
-<br/>
 
-<h1 align="center">Stats📈</h1>
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pastordesoles&show_icons=true&locale=en" alt="pastordesoles" /></p>
+
+
 
 
 
