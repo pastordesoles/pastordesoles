@@ -36,6 +36,7 @@
 ![Supabase](https://img.shields.io/badge/supabase-%2347A248.svg?style=for-the-badge&logo=supabase&logoColor=white)
 ![sharp](https://img.shields.io/badge/sharp-%23404d59.svg?style=for-the-badge)
 ![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Mongoose](https://img.shields.io/badge/mongoose-%23404d59.svg?style=for-the-badge)
 ![jsonwebtoken](https://img.shields.io/badge/jsonwebtoken-%23404d59.svg?style=for-the-badge)
 ![bcrypt](https://img.shields.io/badge/bcrypt-%23404d59.svg?style=for-the-badge)
 
@@ -62,7 +63,6 @@
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![Eslint](https://img.shields.io/badge/eslint-%234B32C3.svg?style=for-the-badge&logo=eslint&logoColor=white)
 ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=white)
-![Mongoose](https://img.shields.io/badge/mongoose-%23404d59.svg?style=for-the-badge)
 ![Lighthouse](https://img.shields.io/badge/lighthouse-%23F7B93E.svg?style=for-the-badge&logo=lighthouse&logoColor=white)
 ![Postman](https://img.shields.io/badge/postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
 ![Render](https://img.shields.io/badge/render-%23000000.svg?style=for-the-badge&logo=render&logoColor=white)
